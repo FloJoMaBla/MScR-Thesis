@@ -50,12 +50,12 @@ print(schoeners_d_values_2017)
 set.seed(123)
 
 # Function to perform a permutation test
-perm_test <- function(DF, n_permutations = 1000) {
-  observed_d <- schoeners_d(DF)
+perm_test <- function(df.s_2017, n_permutations = 1000) {
+  observed_d <- schoeners_d(df.s_2017)
   null_d <- numeric(n_permutations)
   
   for (i in 1:n_permutations) {
-    permuted <- DF %>%
+    permuted <- df.s_2017 %>%
       mutate(Wintering = sample(Wintering))
     null_d[i] <- schoeners_d(permuted)
   }
