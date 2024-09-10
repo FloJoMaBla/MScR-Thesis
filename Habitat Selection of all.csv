@@ -1,0 +1,327 @@
+﻿LC_cat,Selection,Season,Gull,Year,p-value
+Bare ground,NA,Breeding,Archie,2017,0.895
+Built Area,0.76,Breeding,Archie,2017,0.883
+Crops,0.48,Breeding,Archie,2017,0.896
+Flooded Vegetation,0.33,Breeding,Archie,2017,0.903
+Rangeland,0.17,Breeding,Archie,2017,0.912
+Sea Water,0.08,Breeding,Archie,2017,0.922
+Trees,0.12,Breeding,Archie,2017,0.917
+Water,0.63,Breeding,Archie,2017,0.889
+Bare ground,0.67,Wintering,Archie,2017,0.008
+Built Area,0.12,Wintering,Archie,2017,<0.001
+Crops,0.12,Wintering,Archie,2017,<0.001
+Flooded Vegetation,0.39,Wintering,Archie,2017,0.001
+Rangeland,0.52,Wintering,Archie,2017,0.035
+Sea Water,0.61,Wintering,Archie,2017,0.325
+Trees,0.04,Wintering,Archie,2017,<0.001
+Water,0.43,Wintering,Archie,2017,0.005
+Built Area,0.9,Breeding,Clyde,2017,<0.001
+Crops,0.23,Breeding,Clyde,2017,<0.001
+Rangeland,0.13,Breeding,Clyde,2017,<0.001
+Sea Water,0.36,Breeding,Clyde,2017,<0.001
+Trees,NA,Breeding,Clyde,2017,0.887
+Water,0.57,Breeding,Clyde,2017,<0.001
+Bare ground,0.65,Wintering,Clyde,2017,<0.001
+Built Area,NA,Wintering,Clyde,2017,0.936
+Flooded Vegetation,NA,Wintering,Clyde,2017,0.973
+Rangeland,0.49,Wintering,Clyde,2017,0.013
+Sea Water,0.23,Wintering,Clyde,2017,<0.001
+Water,0.81,Wintering,Clyde,2017,<0.001
+Bare ground,NA,Breeding,Eric,2018,0.845
+Built Area,0.24,Breeding,Eric,2018,0.827
+Crops,0.75,Breeding,Eric,2018,0.863
+Rangeland,0.43,Breeding,Eric,2018,0.84
+Sea Water,0.11,Breeding,Eric,2018,0.811
+Trees,0.04,Breeding,Eric,2018,0.793
+Water,0.93,Breeding,Eric,2018,0.888
+Bare ground,NA,Wintering,Eric,2018,0.227
+Built Area,0.1,Wintering,Eric,2018,0.227
+Crops,0.57,Wintering,Eric,2018,0.227
+Flooded Vegetation,NA,Wintering,Eric,2018,0.227
+Rangeland,NA,Wintering,Eric,2018,0.227
+Sea Water,NA,Wintering,Eric,2018,0.227
+Trees,NA,Wintering,Eric,2018,0.227
+Water,0.38,Wintering,Eric,2018,0.227
+Bare ground,NA,Breeding,Eric,2019,NA
+Built Area,0.21,Breeding,Eric,2019,0.835
+Crops,0.7,Breeding,Eric,2019,0.013
+Rangeland,0.5,Breeding,Eric,2019,0.006
+Sea Water,0.09,Breeding,Eric,2019,0.329
+Trees,0.04,Breeding,Eric,2019,0.88
+Water,0.96,Breeding,Eric,2019,0.162
+Bare ground,NA,Wintering,Eric,2019,0.227
+Built Area,NA,Wintering,Eric,2019,0.841
+Crops,0.57,Wintering,Eric,2019,0.738
+Flooded vegetation,NA,Wintering,Eric,2019,NA
+Rangeland,NA,Wintering,Eric,2019,0.904
+Sea water,NA,Wintering,Eric,2019,0.964
+Trees,NA,Wintering,Eric,2019,1
+Water,0.1,Wintering,Eric ,2019,0.003
+Bare ground,NA,Breeding,Eric,2020,NA
+Built Area,0.27,Breeding,Eric,2020,0.845
+Crops,0.72,Breeding,Eric,2020,0.203
+Rangeland,0.58,Breeding,Eric,2020,<0.001
+Sea Water,0.1,Breeding,Eric,2020,0.843
+Trees,0.02,Breeding,Eric,2020,0.223
+Water,0.94,Breeding,Eric,2020,0.578
+Bare ground,NA,Wintering,Eric,2020,NA
+Built Area,NA,Wintering,Eric,2020,0.878
+Crops,0.56,Wintering,Eric,2020,0.6
+Flooded Vegetation,NA,Wintering,Eric,2020,0.943
+Rangeland,NA,Wintering,Eric,2020,0.916
+Sea Water,NA,Wintering,Eric,2020,0.853
+Trees,NA,Wintering,Eric,2020,1
+Water,0.5,Wintering,Eric,2020,0.15
+Built Area,0.71,Breeding,Flyback,2017,<0.001
+Crops,0.48,Breeding,Flyback,2017,<0.001
+Flooded Vegetation,1,Breeding,Flyback,2017,0.936
+Rangeland,0.41,Breeding,Flyback,2017,<0.001
+Sea Water,0.09,Breeding,Flyback,2017,<0.001
+Trees,0.06,Breeding,Flyback,2017,<0.001
+Water,0.89,Breeding,Flyback,2017,<0.001
+Bare ground,0.96,Wintering,Flyback,2017,<0.001
+Built Area,0.44,Wintering,Flyback,2017,<0.001
+Crops,0.34,Wintering,Flyback,2017,<0.001
+Rangeland,0.54,Wintering,Flyback,2017,<0.001
+Sea Water,0.34,Wintering,Flyback,2017,<0.001
+Trees,0.13,Wintering,Flyback,2017,<0.001
+Water,0.84,Wintering,Flyback,2017,<0.001
+Bare ground,NA,Breeding,Gary,2017,0.953
+Built Area,0.88,Breeding,Gary,2017,0.945
+Crops,0.26,Breeding,Gary,2017,0.958
+Flooded Vegetation,NA,Breeding,Gary,2017,1
+Rangeland,0.19,Breeding,Gary,2017,0.959
+Sea Water,0.09,Breeding,Gary,2017,0.963
+Trees,0.05,Breeding,Gary,2017,0.965
+Water,0.31,Breeding,Gary,2017,0.956
+Bare ground,0.91,Wintering,Gary,2017,0.028
+Built Area,0.35,Wintering,Gary,2017,0.005
+Crops,0.49,Wintering,Gary,2017,0.026
+Flooded Vegetation,NA,Wintering,Gary,2017,0.903
+Rangeland,0.12,Wintering,Gary,2017,<0.001
+Sea Water,0.72,Wintering,Gary,2017,0.21
+Trees,0.05,Wintering,Gary,2017,<0.001
+Water,0.97,Wintering,Gary,2017,0.297
+Bare ground,NA,Breeding,Gary,2018,NA
+Built Area,0.84,Breeding,Gary,2018,0.044
+Crops,0.16,Breeding,Gary,2018,0.138
+Flooded Vegetation,NA,Breeding,Gary,2018,NA
+Rangeland,0.15,Breeding,Gary,2018,0.335
+Sea Water,0.06,Breeding,Gary,2018,0.163
+Trees,0.02,Breeding,Gary,2018,0.245
+Water,0.67,Breeding,Gary,2018,0.227
+Bare ground,NA,Wintering,Gary,2018,0.935
+Built Area,0.46,Wintering,Gary,2018,<0.001
+Crops,0.51,Wintering,Gary,2018,0.409
+Flooded Vegetation,NA,Wintering,Gary,2018,0.865
+Rangeland,0.1,Wintering,Gary,2018,0.448
+Sea Water,0.67,Wintering,Gary,2018,0.636
+Trees,0.03,Wintering,Gary,2018,0.32
+Water,0.96,Wintering,Gary,2018,0.285
+Bare ground,NA,Breeding,Gully,2017,0.919
+Built Area,0.85,Breeding,Gully,2017,0.931
+Crops,0.42,Breeding,Gully,2017,0.917
+Flooded Vegetation,NA,Breeding,Gully,2017,1
+Rangeland,0.33,Breeding,Gully,2017,0.914
+Sea Water,0.25,Breeding,Gully,2017,0.911
+Trees,0.04,Breeding,Gully,2017,0.897
+Water,0.83,Breeding,Gully,2017,0.93
+Built Area,0.13,Wintering,Gully,2017,0.002
+Crops,0.49,Wintering,Gully,2017,0.002
+Flooded Vegetation,NA,Wintering,Gully,2017,0.942
+Rangeland,0.03,Wintering,Gully,2017,0.144
+Sea Water,0.7,Wintering,Gully,2017,<0.001
+Trees,0.04,Wintering,Gully,2017,0.08
+Water,0.85,Wintering,Gully,2017,<0.001
+Bare ground,0.5,Breeding,Happy,2018,1
+Built Area,0.74,Breeding,Happy,2018,0.455
+Crops,0.26,Breeding,Happy,2018,0.462
+Rangeland,0.69,Breeding,Happy,2018,0.578
+Sea Water,0.06,Breeding,Happy,2018,0.053
+Trees,0.13,Breeding,Happy,2018,0.186
+Water,0.77,Breeding,Happy,2018,0.403
+Bare ground,0.82,Wintering,Happy,2018,<0.001
+Built Area,0.64,Wintering,Happy,2018,<0.001
+Crops,0.47,Wintering,Happy,2018,<0.001
+Flooded Vegetation,NA,Wintering,Happy,2018,0.829
+Rangeland,0.53,Wintering,Happy,2018,<0.001
+Sea Water,0.11,Wintering,Happy,2018,<0.001
+Trees,0.04,Wintering,Happy,2018,<0.001
+Water,0.53,Wintering,Happy,2018,<0.001
+Built Area,0.67,Breeding,Jose,2018,<0.001
+Crops,0.41,Breeding,Jose,2018,<0.001
+Flooded Vegetation,0.67,Breeding,Jose,2018,NA
+Rangeland,0.63,Breeding,Jose,2018,0.234
+Sea Water,0.1,Breeding,Jose,2018,<0.001
+Trees,0.15,Breeding,Jose,2018,<0.001
+Water,0.88,Breeding,Jose,2018,0.004
+Bare ground,NA,Breeding,Jose,2018,0.947
+Built Area,0.65,Wintering,Jose,2018,0.944
+Crops,0.44,Wintering,Jose,2018,0.948
+Flooded Vegetation,0.98,Wintering,Jose,2018,0.929
+Rangeland,0.18,Wintering,Jose,2018,0.953
+Sea Water,0.56,Wintering,Jose,2018,0.946
+Trees,0.03,Wintering,Jose,2018,0.961
+Water,0.86,Wintering,Jose,2018,0.938
+Built Area,0.44,Breeding,Jose,2019,<0.001
+Crops,0.64,Breeding,Jose,2019,<0.001
+Flooded Vegetation,0.89,Breeding,Jose,2019,0.204
+Rangeland,0.43,Breeding,Jose,2019,<0.001
+Sea Water,0.18,Breeding,Jose,2019,0.035
+Trees,0.05,Breeding,Jose,2019,0.015
+Water,0.65,Breeding,Jose,2019,0.01
+Bare ground,0.5,Wintering,Jose,2019,0.947
+Built Area,0.62,Wintering,Jose,2019,0.396
+Crops,0.37,Wintering,Jose,2019,<0.001
+Flooded Vegetation,NA,Wintering,Jose,2019,0.846
+Rangeland,0.15,Wintering,Jose,2019,0.161
+Sea Water,0.07,Wintering,Jose,2019,0.008
+Trees,0.05,Wintering,Jose,2019,0.62
+Water,0.93,Wintering,Jose,2019,<0.001
+Built Area,0.88,Breeding,Kingpin,2018,<0.001
+Crops,0.03,Breeding,Kingpin,2018,<0.001
+Flooded Vegetation,0.33,Breeding,Kingpin,2018,0.027
+Rangeland,0.14,Breeding,Kingpin,2018,<0.001
+Sea Water,0.21,Breeding,Kingpin,2018,<0.001
+Trees,0.03,Breeding,Kingpin,2018,<0.001
+Water,0.43,Breeding,Kingpin,2018,<0.001
+Bare ground,0.92,Wintering,Kingpin,2018,<0.001
+Built Area,0.61,Wintering,Kingpin,2018,<0.001
+Crops,0.19,Wintering,Kingpin,2018,<0.001
+Rangeland,0.3,Wintering,Kingpin,2018,0.087
+Sea Water,0.18,Wintering,Kingpin,2018,<0.001
+Trees,0,Wintering,Kingpin,2018,0.849
+Water,0.83,Wintering,Kingpin,2018,<0.001
+Bare ground,NA,Breeding,Luke,2018,0.971
+Built Area,0.62,Breeding,Luke,2018,0.972
+Crops,0.51,Breeding,Luke,2018,0.971
+Flooded Vegetation,0.17,Breeding,Luke,2018,0.967
+Rangeland,0.19,Breeding,Luke,2018,0.968
+Sea Water,0,Breeding,Luke,2018,0.942
+Trees,0.02,Breeding,Luke,2018,0.963
+Water,0.97,Breeding,Luke,2018,0.977
+Bare ground,0.71,Wintering,Luke,2018,0.014
+Built Area,0.48,Wintering,Luke,2018,0.01
+Crops,0.52,Wintering,Luke,2018,0.034
+Flooded Vegetation,0.6,Wintering,Luke,2018,0.2
+Rangeland,0.1,Wintering,Luke,2018,<0.001
+Sea Water,0.19,Wintering,Luke,2018,<0.001
+Trees,NA,Wintering,Luke,2018,0.803
+Water,0.67,Wintering,Luke,2018,0.585
+Bare ground,0.5,Breeding,Ollie,2018,1
+Built Area,0.67,Breeding,Ollie,2018,0.621
+Crops,0.52,Breeding,Ollie,2018,0.964
+Rangeland,0.19,Breeding,Ollie,2018,0.318
+Sea Water,0.15,Breeding,Ollie,2018,0.221
+Trees,0.07,Breeding,Ollie,2018,0.097
+Water,0.92,Breeding,Ollie,2018,0.094
+Bare ground,0.89,Wintering,Ollie,2018,<0.001
+Built Area,0.56,Wintering,Ollie,2018,<0.001
+Crops,0.15,Wintering,Ollie,2018,<0.001
+Rangeland,0.47,Wintering,Ollie,2018,<0.001
+Sea Water,0.12,Wintering,Ollie,2018,<0.001
+Trees,NA,Wintering,Ollie,2018,0.854
+Water,0.59,Wintering,Ollie,2018,<0.001
+Bare ground,NA,Breeding,Ollie,2019,0.9
+Built Area,0.85,Breeding,Ollie,2019,<0.001
+Crops,0.69,Breeding,Ollie,2019,<0.001
+Rangeland,0.31,Breeding,Ollie,2019,0.063
+Sea Water,0.18,Breeding,Ollie,2019,0.513
+Trees,0.04,Breeding,Ollie,2019,0.53
+Water,0.35,Breeding,Ollie,2019,<0.001
+Bare ground,0.8,Wintering,Ollie,2019,0.219
+Built Area,0.61,Wintering,Ollie,2019,0.016
+Crops,0.35,Wintering,Ollie,2019,0.043
+Rangeland,0.14,Wintering,Ollie,2019,0.002
+Sea Water,0.08,Wintering,Ollie,2019,0.228
+Trees,NA,Wintering,Ollie,2019,NA
+Water,0.49,Wintering,Ollie,2019,0.133
+Bare ground,0.33,Breeding,Roger,2017,0.571
+Built Area,0.76,Breeding,Roger,2017,0.129
+Crops,0.24,Breeding,Roger,2017,0.711
+Flooded Vegetation,NA,Breeding,Roger,2017,0.894
+Rangeland,0.37,Breeding,Roger,2017,0.897
+Sea Water,0.17,Breeding,Roger,2017,0.471
+Trees,0.11,Breeding,Roger,2017,0.278
+Water,0.77,Breeding,Roger,2017,0.125
+Bare ground,0.85,Wintering,Roger,2017,<0.001
+Built Area,0.82,Wintering,Roger,2017,0.583
+Crops,0.17,Wintering,Roger,2017,<0.001
+Flooded Vegetation,0.71,Wintering,Roger,2017,0.076
+Rangeland,0.07,Wintering,Roger,2017,<0.001
+Sea Water,0.18,Wintering,Roger,2017,<0.001
+Trees,0.01,Wintering,Roger,2017,<0.001
+Water,0.71,Wintering,Roger,2017,0.044
+Built Area,0.62,Breeding,Roland,2017,<0.001
+Crops,0.41,Breeding,Roland,2017,<0.001
+Flooded Vegetation,NA,Breeding,Roland,2017,0.896
+Rangeland,0.52,Breeding,Roland,2017,<0.001
+Sea Water,0.35,Breeding,Roland,2017,<0.001
+Trees,0.25,Breeding,Roland,2017,<0.001
+Water,0.8,Breeding,Roland,2017,<0.001
+Bare ground,NA,Wintering,Roland,2017,0.968
+Built Area,0.49,Wintering,Roland,2017,0.968
+Crops,NA,Wintering,Roland,2017,0.946
+Flooded Vegetation,0.65,Wintering,Roland,2017,0.969
+Rangeland,NA,Wintering,Roland,2017,0.941
+Sea Water,0.58,Wintering,Roland,2017,0.968
+Trees,0.06,Wintering,Roland,2017,0.962
+Water,0.41,Wintering,Roland,2017,0.967
+Built Area,0.86,Breeding,Rufus,2019,<0.001
+Crops,0.38,Breeding,Rufus,2019,<0.001
+Flooded Vegetation,NA,Breeding,Rufus,2019,0.946
+Rangeland,0.6,Breeding,Rufus,2019,<0.001
+Sea Water,0.04,Breeding,Rufus,2019,<0.001
+Trees,0.15,Breeding,Rufus,2019,<0.001
+Water,0.79,Breeding,Rufus,2019,0.411
+Bare ground,0.81,Wintering,Rufus,2019,<0.001
+Built Area,0.48,Wintering,Rufus,2019,<0.001
+Crops,0.52,Wintering,Rufus,2019,<0.001
+Flooded Vegetation,0.89,Wintering,Rufus,2019,0.348
+Rangeland,0.1,Wintering,Rufus,2019,<0.001
+Sea Water,0.48,Wintering,Rufus,2019,<0.001
+Trees,0.05,Wintering,Rufus,2019,<0.001
+Water,0.75,Wintering,Rufus,2019,0.352
+Built Area,0.88,Breeding,Stephen,2017,<0.001
+Crops,0.33,Breeding,Stephen,2017,<0.001
+Flooded Vegetation,NA,Breeding,Stephen,2017,0.943
+Rangeland,0.56,Breeding,Stephen,2017,<0.001
+Sea Water,0.11,Breeding,Stephen,2017,<0.001
+Trees,0.16,Breeding,Stephen,2017,<0.001
+Water,0.86,Breeding,Stephen,2017,0.54
+Built Area,NA,Wintering,Stephen,2017,0.901
+Crops,0.44,Wintering,Stephen,2017,0.903
+Flooded Vegetation,0.89,Wintering,Stephen,2017,0.886
+Rangeland,0.67,Wintering,Stephen,2017,0.896
+Trees,0.02,Wintering,Stephen,2017,0.929
+Water,NA,Wintering,Stephen,2017,0.863
+Built Area,0.76,Breeding,Stuart,2017,<0.001
+Crops,0.38,Breeding,Stuart,2017,<0.001
+Flooded Vegetation,NA,Breeding,Stuart,2017,0.844
+Rangeland,0.56,Breeding,Stuart,2017,<0.001
+Sea Water,0.08,Breeding,Stuart,2017,<0.001
+Trees,0.15,Breeding,Stuart,2017,<0.001
+Water,0.73,Breeding,Stuart,2017,0.543
+Bare ground,0.95,Wintering,Stuart,2017,<0.001
+Built Area,0.41,Wintering,Stuart,2017,<0.001
+Crops,0.31,Wintering,Stuart,2017,<0.001
+Flooded Vegetation,0.43,Wintering,Stuart,2017,<0.001
+Rangeland,0.57,Wintering,Stuart,2017,<0.001
+Sea Water,0.1,Wintering,Stuart,2017,<0.001
+Trees,0,Wintering,Stuart,2017,0.839
+Water,0.87,Wintering,Stuart,2017,0.002
+Built Area,0.79,Breeding,Stuart,2018,0.384
+Crops,0.32,Breeding,Stuart,2018,0.035
+Flooded Vegetation,NA,Breeding,Stuart,2018,NA
+Rangeland,0.59,Breeding,Stuart,2018,0.153
+Sea Water,0.1,Breeding,Stuart,2018,0.304
+Trees,0.04,Breeding,Stuart,2018,<0.001
+Water,0.63,Breeding,Stuart,2018,0.071
+Bare ground,0.85,Wintering,Stuart,2018,0.013
+Built Area,0.73,Wintering,Stuart,2018,<0.001
+Crops,0.45,Wintering,Stuart,2018,<0.001
+Flooded Vegetation,0.43,Wintering,Stuart,2018,NA
+Rangeland,0.21,Wintering,Stuart,2018,<0.001
+Sea Water,0.17,Wintering,Stuart,2018,0.045
+Trees,0.02,Wintering,Stuart,2018,0.91
+Water,0.81,Wintering,Stuart,2018,0.064
