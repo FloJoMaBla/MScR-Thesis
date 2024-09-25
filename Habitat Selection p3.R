@@ -41,6 +41,36 @@ effects_1.gam <- ggpredict(model_1.gam, terms = c("LC_cat", "Season"),
                            type="fixed")
 plot(effects_1.gam)+labs(x = "Landcover Category", y = "Selection")+ylim(0,1)
 
+plot(effects_1.gam)+labs(x = "Habitat Category", y = "Predicted Probability of Presence")+ylim(0,1) +
+  geom_hline(yintercept=0.5,linetype="dotted", colour="black")
+
+#drop interaction to compare with and without interaction
+model_1.gam2 <- bam(Pres ~ LC_cat  + Season + s(ID, bs = "re"), data = HabSel, family = binomial)
+summary(model_1.gam2)
+AIC(model_1.gam2)
+anova(model_1.gam2,model_1.gam) 
+
+#now the same as the above but only for urban birds
+
+HabSel_Urban <- subset(HabSel, Nest == 'Urban')
+
+# Now run the bam on the filtered data
+model_1.gam_Urban <- bam(Pres ~ LC_cat  + LC_cat:Season + s(ID, bs = "re"), data = HabSel_Urban, family = binomial)
+summary(model_1.gam_Urban)
+effects_1.gam_Urban <- ggpredict(model_1.gam_Urban, terms = c("LC_cat", "Season"),
+                                 type="fixed")
+plotUrban<-plot(effects_1.gam_Urban)+labs(x = "Habitat Category", y = "Predicted Probability of Presence")+ylim(0,1)
+
+#and now just for non-urban
+HabSel_NonUrban <- subset(HabSel, Nest == 'Non-Urban')
+
+# Now run the bam on the filtered data
+model_1.gam_NonUrban <- bam(Pres ~ LC_cat  + LC_cat:Season + s(ID, bs = "re"), data = HabSel_NonUrban, family = binomial)
+summary(model_1.gam_NonUrban)
+effects_1.gam_NonUrban <- ggpredict(model_1.gam_NonUrban, terms = c("LC_cat", "Season"),
+                                    type="fixed")
+plotNonUrban<-plot(effects_1.gam_Urban)+labs(x = "Habitat Category", y = "Predicted Probability of Presence")+ylim(0,1)
+
 # look at differences by individuals
 #this looks at all gulls selection in both summer and winter for overall selection
 model_2.gam <- bam(Pres ~ 
