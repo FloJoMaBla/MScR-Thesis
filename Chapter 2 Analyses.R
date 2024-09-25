@@ -138,7 +138,7 @@ var.test(No_Days_journey_final ~ Season, data = LengthStopovers) #9.5 result... 
 #season spring still least significant from summary output. T value lowest which shows this, so remove year
 null<-lmer(No_Days_journey_final~1+(1|Gull),data=LengthStopovers) #null model, not affected by season
 anova(SpeedSeasonGull,null) #all models should only differ by one variable 
-#season significant chisq 3.96 df 1, p=0.047
+#season significant chisq 3.97 df 1, p=0.046
 library(MuMIn)
 r.squaredGLMM(SpeedSeasonGull)
 
