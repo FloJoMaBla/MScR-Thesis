@@ -158,7 +158,7 @@ plot(simulationOutput) #all good
 var.test(Number_Travel_Days_PnS~Season, data = SeasonalTravel) #1.1
 null<-lmer(Number_Travel_Days_PnS~1+(1|Gull),data=SeasonalTravel)
 anova(TravelDaysSeason,null)
-#no difference in travel days chisq 0.06, df 1, p=0.805
+#no difference in travel days chisq 0.01, df 1, p=0.936
 r.squaredGLMM(TravelDaysSeason)
 
 ####The difference in the number of stopovers per season####
